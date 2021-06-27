@@ -6,7 +6,7 @@ module.exports = {
   title: '颜歌', 
   description: '这里什么都没有',
   // theme: 'reco',	// 主题
-  // base: '/', // 这是部署到github相关的配置
+  base: '/MrYanQi2020.io-blog/', // 这是部署到github相关的配置
 
   // //插件
   // plugins: [
