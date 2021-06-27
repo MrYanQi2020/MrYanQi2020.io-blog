@@ -1,6 +1,5 @@
 ---
 home: true
-base: /MrYanQi2020.io-blog/
 heroText: null
 features:
 - title: Yesterday
